@@ -1,4 +1,4 @@
-# THIS IS A DRAFT DOCUMENT  
+# BE AWARE THIS IS A DRAFT DOCUMENT  
 
 # High-Level syllabus - QC Broadband Technical Support Training Program 
 
