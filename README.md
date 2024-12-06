@@ -1,6 +1,6 @@
 # THIS IS A DRAFT DOCUMENT 
 
-# QC Broadband Technical Support Training Program
+# High-Level syllabus - QC Broadband Technical Support Training Program 
 
 **Objective:**  
 To develop students into skilled technical support professionals capable of supporting QC Broadband’s LTE broadband network and participate in the QC Broadband intern program.
